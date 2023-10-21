@@ -15,7 +15,7 @@
 https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/2e584bd5-99b9-4653-a925-b8524bc3ca2a
 
 Test Scenario dan test case dibuat dalam satu file. <br>
-Test scenario dan Test Case : Exploratory Testing-Test Scenario & Test Case.xlsx
+Test scenario dan Test Case : *Exploratory Testing-Test Scenario & Test Case.xlsx*
 >![Screenshot 2023-10-22 010340](https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/638209ae-e269-4b2c-bbe9-15178e5c6b9b)
 
 Ada dua test Scenario dan test case dalam file tersebut, salah satunya adalah dibuat dalam Gherkin Syntax harapannya agar dapat mempermudah dalam automasi testing nanti
@@ -23,18 +23,18 @@ Ada dua test Scenario dan test case dalam file tersebut, salah satunya adalah di
 
 Katalon studio juga ikut berperan dalam testing ini, katalon studio dipilih karena mudah digunakan, meminimalisir kesalahan manusia serta pelaporan hasil pengujian yang di-generate secara otomatis.
 
-<br> Katalon                     : Exploratory-Testing 
+<br> Katalon                     : *Exploratory-Testing* 
 <br> ![Screenshot 2023-10-22 011148](https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/17c38bd7-9de1-4fb4-9e1f-1681d8b64f23)
 
 Report dari katalon studio di export dalam bentuk html dan pdf
 <br>Result Katalon              : 
-<br> Result_20231021_144005.html
+<br> *Result_20231021_144005.html*
 ![Screenshot 2023-10-22 012122](https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/1d241fb7-24ae-4994-b221-25b3ecae653a)
 
-Result_20231021_144005.pdf
+*Result_20231021_144005.pdf*
 ![Screenshot 2023-10-22 012144](https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/054265fa-2816-4b79-b28c-abd7f44af960)
 
 
-Saya menyadari exploratory testing ini masih banyak kekurangannya, tapi semoga dapat membantu dan kita bisa maju, berprogres juga berkembang bersama-sama. Terimakasih. 
+Saya menyadari exploratory testing ini masih memiliki banyak kekurangan, tapi semoga dapat membantu dan kita bisa maju, berprogres juga berkembang bersama-sama. Terimakasih. 
 
 
