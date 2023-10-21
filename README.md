@@ -1,6 +1,6 @@
 # Exploratory Testing Pada Aplikasi SWAG LABS
 
-<br> Exploratory testing ini dilakukan pada aplikasi **SWAGLABS** (https://www.saucedemo.com/). SWAGLABS merupakan aplikasi website dan mobile testing yang free dan bisa digunakan oleh siapapun
+<br> Exploratory testing ini dilakukan pada aplikasi **SWAGLABS** (https://www.saucedemo.com/). SWAGLABS merupakan aplikasi website maupun mobile testing yang free dan bisa digunakan oleh siapapun
 
 ![Screenshot 2023-10-22 004658](https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/22a01270-0dc9-4162-873d-9dc9a82a74e7)
 
