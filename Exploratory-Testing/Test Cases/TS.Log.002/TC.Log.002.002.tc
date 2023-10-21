@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users can add products to cart using add to cart button on dashboard page</description>
+   <name>TC.Log.002.002</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <testCaseGuid>a2c17a69-3f55-4875-94d2-002da684b636</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login using unregistered user and password</description>
+   <name>TC.Log.001.002</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <testCaseGuid>851a2da2-398a-4b8a-9141-b950a35c9053</testCaseGuid>
+</TestCaseEntity>
