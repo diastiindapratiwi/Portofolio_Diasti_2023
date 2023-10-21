@@ -1,11 +1,11 @@
-Exploratory Testing ini dilakukan pada aplikasi SWAGLAB (https://www.saucedemo.com/)
-Menggunakan beberapa registered username dan password
+###Exploratory Testing ini dilakukan pada aplikasi **SWAGLAB** (https://www.saucedemo.com/)
+<br>###Menggunakan beberapa registered username dan password
 
-1st Username |	standard_user				
-2nd Username |  locked_out_user				
-3rd Username |	problem_user				
-4th Username |	performance_glitch_user				
-Password	   |  secret_sauce				
+>1st Username |	standard_user				
+><br>2nd Username |  locked_out_user				
+><br>3rd Username |	problem_user				
+><br>4th Username |	performance_glitch_user				
+>><br>Password	   |  secret_sauce				
 
 Test scenario dan Test Case : Exploratory Testing-Test Scenario & Test Case.xlsx
 Katalon                     : Exploratory-Testing
