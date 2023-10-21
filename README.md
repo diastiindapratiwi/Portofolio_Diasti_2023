@@ -35,6 +35,7 @@ Report dari katalon studio di export dalam bentuk html dan pdf
 ![Screenshot 2023-10-22 012144](https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/054265fa-2816-4b79-b28c-abd7f44af960)
 
 
-Saya menyadari exploratory testing ini masih memiliki banyak kekurangan, tapi semoga dapat membantu dan kita bisa maju, berprogres juga berkembang bersama-sama. Terimakasih. 
+Saya menyadari exploratory testing ini masih memiliki banyak kekurangan, tapi semoga dapat membantu dan kita bisa maju, berprogres juga berkembang bersama-sama. 
+<br>Terimakasih. 
 
 
