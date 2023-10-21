@@ -4,7 +4,7 @@
 
 ![Screenshot 2023-10-22 004658](https://github.com/diastiindapratiwi/Portofolio_Diasti_2023/assets/148234237/22a01270-0dc9-4162-873d-9dc9a82a74e7)
 
-<br>Aplikasi ini menggunakan beberapa registered username dan password :
+<br>Testing ini menggunakan beberapa registered username dan password :
 
 >1st Username |	standard_user				
 ><br>2nd Username |  locked_out_user				
